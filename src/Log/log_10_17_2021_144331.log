@@ -1,0 +1,16 @@
+2021-Oct-17 14:43:21 [TestNG-tests-2] com.testingshatra.uitests.SignupPageTests 
+  INFO  Url is launched: https://www.ijmeet.com
+2021-Oct-17 14:43:24 [TestNG-tests-1] com.testingshatra.uitests.SignupPageTests 
+  INFO  Url is launched: https://www.ijmeet.com
+2021-Oct-17 14:43:27 [TestNG-tests-2] com.testingshatra.uitests.SignupPageTests 
+  INFO  Clicked on Register button
+2021-Oct-17 14:43:27 [TestNG-tests-1] com.testingshastra.util.TestListener 
+  INFO  Test is failed. Taking screenshot
+2021-Oct-17 14:43:29 [TestNG-tests-2] com.testingshatra.uitests.SignupPageTests 
+  INFO  Switched inside a frame
+2021-Oct-17 14:43:30 [TestNG-tests-2] com.testingshastra.util.TestListener 
+  INFO  Test is failed. Taking screenshot
+2021-Oct-17 14:43:31 [TestNG-tests-2] com.testingshastra.util.TestListener 
+  INFO  Screenshot is saved successfully
+2021-Oct-17 14:43:31 [TestNG-tests-1] com.testingshastra.util.TestListener 
+  INFO  Screenshot is saved successfully

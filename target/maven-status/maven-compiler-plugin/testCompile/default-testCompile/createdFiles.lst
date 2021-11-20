@@ -1,0 +1,7 @@
+com/testingshastra/util/RunnerTest.class
+com/testingshastra/stepdefinitions/HomePageSteps.class
+com/testingshatra/uitests/homepagetests/HomePageTests.class
+com/testingshatra/uitests/SignupPageTests.class
+com/testingshastra/stepdefinitions/Parameterization.class
+com/testingshatra/uitests/HomePageTests.class
+com/testingshastra/stepdefinitions/FirstStepDefinition.class

@@ -1,0 +1,6 @@
+2021-Oct-16 16:17:03 [main] com.testingshatra.uitests.SignupPageTests 
+  INFO  Url is launched: https://www.ijmeet.com
+2021-Oct-16 16:17:08 [main] com.testingshatra.uitests.SignupPageTests 
+  INFO  Clicked on Register button
+2021-Oct-16 16:17:10 [main] com.testingshatra.uitests.SignupPageTests 
+  INFO  Switched inside a frame
